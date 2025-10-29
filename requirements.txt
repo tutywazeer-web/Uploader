@@ -1,3 +1,6 @@
 toml
 telegram
 python-telegram-bot
+git clone https://github.com/Aviksaikat/Tanpachiro-bot
+cd Tanpachiro-bot
+pip install -r requirements.txt
